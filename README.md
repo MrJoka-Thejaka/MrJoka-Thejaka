@@ -12,8 +12,6 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👯 I’m looking to collaborate on [Cobra Bot Project](https://github.com/sisula/cobrabot)
-
 - 🤝 I’m looking for help with [Mizuki Project](https://github.com/MrJoka-Thejaka/Mizuki)
 
 - 👨‍💻 All of my projects are available at [My Git](https://github.com/MrJoka-Thejaka)
