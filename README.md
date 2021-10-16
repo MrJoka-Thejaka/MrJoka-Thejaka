@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrjoka-thejaka" alt="mrjoka-thejaka" /></a> </p>
 
 
-- 🔭 I’m currently working on [Mizuki (an user bot for Whatsapp)](https://github.com/MrJoka-Thejaka/Mizuki)
+- 🔭 I’m currently working on [Mizuki (an user bot for Whatsapp)](https://queen-mizuki.github.io/Mizuki-site/)
 
 - 🌱 I’m currently learning **Node.js**
 
@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with [Mizuki Project](https://github.com/MrJoka-Thejaka/Mizuki)
 
-- 👨‍💻 All of my projects are available at [My Git](https://github.com/MrJoka-Thejaka)
+- 👨‍💻 All of my projects are available at [My Web Site](https://joka.cf/)
 
 - 📫 How to reach me :- **thejakamax@gmail.com**
 
