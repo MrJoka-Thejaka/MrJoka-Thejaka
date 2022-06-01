@@ -30,7 +30,7 @@
 
 &nbsp; <br>
 
-[![Spotify](https://novatorem-mrjoka-thejaka.vercel.app/api/spotify)](https://joka.cf)
+[![Spotify](https://novatoremmrjoka-mrjoka-thejaka.vercel.app/api/spotify)](https://joka.cf)
 
 </td>
 <td width="500%">
